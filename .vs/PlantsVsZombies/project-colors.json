@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e055c00f-3f43-4700-888b-a9c7bfce2d2a": {
+      "ProjectGuid": "e055c00f-3f43-4700-888b-a9c7bfce2d2a",
+      "DisplayName": "PlantsVsZombies",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
